@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **darshilagrawal/darshilagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about swift and blockchain
 - 📫 How to reach me: [*Twitter*](https://twitter.com/agrawal_darshil)
 - ⚡ Fun fact: I started swift development during the pandemic xD.
--->
+
