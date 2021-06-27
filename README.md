@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on iOS Development using Swift/SwiftUI
+- 🔭 I’m currently working on iOS Development in an Ecommerce Project👕
 - 🌱 I’m currently learning about Blockchain Technology 
 - 👯 I’m looking to collaborate on iOS Projects and Ideas
 - 🤔 I’m looking for help with programmatic UI design
