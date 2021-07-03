@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 - 🔭 I’m currently working on iOS Development in an Ecommerce Project👕
@@ -10,5 +10,7 @@
 - ⚡ Fun fact: I started swift development during the pandemic xD.
 
 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darshilagrawal&show_icons=true&theme=default" alt="darshilagrawal" />
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshilagrawal&layout=compact&theme=gotham)
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darshilagrawal&show_icons=true&theme=gotham)
