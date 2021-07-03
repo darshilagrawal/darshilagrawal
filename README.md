@@ -9,3 +9,6 @@
 - 📫 How to reach me: [**Twitter**](https://twitter.com/agrawal_darshil) & [**LinkedIn**](https://www.linkedin.com/in/darshil-agrawal-736132176/)
 - ⚡ Fun fact: I started swift development during the pandemic xD.
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darshilagrawal&show_icons=true&theme=default" alt="darshilagrawal" />
