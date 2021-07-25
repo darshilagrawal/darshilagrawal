@@ -18,4 +18,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilagrawal&layout=compact&theme=light"/>
 
 ### 📈 GitHub Activity Graph:
- ![Darshil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshilagrawal&theme=light&bg_color=ffffff&custom_title=All%20You%20Have%20to%20do%20is%20Keep%20Going)
+ ![](https://activity-graph.herokuapp.com/graph?username=darshilagrawal&theme=light&bg_color=ffffff&custom_title=All%20You%20Have%20to%20do%20is%20Keep%20Going)
