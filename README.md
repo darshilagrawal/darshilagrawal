@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
-- 🔭 Currently working on iOS Development in an Ecommerce Project👕
+- 🔭 Currently working as iOS Intern at [**Swiggy**](https://www.swiggy.com) 🍕
 - 🌱 Learning about Blockchain Technology 
 - 👯 Open to collaborate on iOS Projects and Ideas
 - 🤔 Looking for help with programmatic UI design
