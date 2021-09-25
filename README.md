@@ -7,7 +7,7 @@
 - 🤔 Looking for help with programmatic UI design
 - 💬 Ask me about swift and blockchain
 - 📫 How to reach me: [**Twitter**](https://twitter.com/agrawal_darshil) & [**LinkedIn**](https://www.linkedin.com/in/darshil-agrawal-736132176/)
-- ⚡ Fun fact: I started swift development during the pandemic xD
+- ⚡ Fun fact: I started Swift development during the pandemic xD
 
 ## Github Stats
 
