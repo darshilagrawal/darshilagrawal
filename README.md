@@ -8,6 +8,7 @@
 - 💬 Ask me about Swift and Blockchain
 - 📫 How to reach me: [**Twitter**](https://twitter.com/agrawal_darshil) & [**LinkedIn**](https://www.linkedin.com/in/darshil-agrawal-736132176/)
 - ⚡ Fun fact: I started Swift development during the pandemic xD
+- 🧘🏼 Molt: Check out our App on the [App Store](https://apps.apple.com/us/app/molt/id1594694466)
 
 ## Github Stats
 
