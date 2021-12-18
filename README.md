@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-
+### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 - 🔭 Currently working as iOS Intern at [**Swiggy**](https://www.swiggy.com) 🍕
 - 🌱 Learning about Blockchain Technology 
