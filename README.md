@@ -4,7 +4,7 @@
 - 🌱 Learning about Blockchain Technology & Product Thinking
 - 👯 Open to collaborate on iOS Projects and Ideas
 - 🤔 Looking for help with programmatic UI design and Reactive Programming
-- 💬 Ask me about Swift and Blockchain
+- 💬 Ask me about Swift and Startups
 - 📫 How to reach me: [**Twitter**](https://twitter.com/agrawal_darshil) & [**LinkedIn**](https://www.linkedin.com/in/darshil-agrawal-736132176/)
 - ⚡ Fun fact: I started Swift development during the pandemic xD
 - 🧘🏼 Molt: Check out our Meditation App on the [App Store](https://apps.apple.com/us/app/molt/id1594694466)
