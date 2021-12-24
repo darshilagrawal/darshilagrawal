@@ -20,5 +20,5 @@
 ### 📈 GitHub Activity Graph:
  ![](https://activity-graph.herokuapp.com/graph?username=darshilagrawal&theme=light&bg_color=ffffff&custom_title=All%20You%20Have%20to%20do%20is%20Keep%20Going)
 
-### 😱 An accrate description of my worst nightmare:
+### 😱 An Accrate description of my worst nightmare:
  ![](https://github.com/darshilagrawal/darshilagrawal/blob/output/github-contribution-grid-snake.gif)
